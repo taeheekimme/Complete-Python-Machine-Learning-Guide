@@ -1,4 +1,4 @@
-## Complete-Python-Machine-Learning-Guide
+# Complete_Python_Machine_Learning_Guide
 
 #### 파이썬 머신러닝 완벽 가이드 개정판
 
@@ -8,9 +8,19 @@
 #### 언어 및 프로그램 
 - Python / Jupyter Notebook
 
-#### 학습 내용 
+#### 학습 방법
+- '파이선 머신러닝 완벽 가이드' 책과 인프런 인터넷 강의 사이트에서 '권철민'저자 직강의 강의를 통한 학습 
 
-- '파이선 머신러닝 완벽 가이드' 책과 인프런 인터넷 강의 사이트에서 '권철민'저자 직강의 강의를 통한 학습 <br><br>
+#### 학습 내용
+- Numpy, Pandas
+- 사이킷런 익히기
+- 평가
+- 분류
+- 회귀
+- 차원 축소
+- 군집화
+- 텍스트 분석
+- 추천 시스템<br><br>
 
 
 
