@@ -1,1 +1,1 @@
-# Complete-Python-Machine-Learning-Guide
+## '파이썬 머신러닝 완벽 가이드' 책 학습 내용
