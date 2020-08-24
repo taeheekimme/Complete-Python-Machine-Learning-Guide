@@ -1,5 +1,7 @@
 ## Complete-Python-Machine-Learning-Guide
 
+#### 파이썬 머신러닝 완벽 가이드 개정판
+
 - 학습 일시 : 2020.07.20 ~ 2020.08.31
 
 - 언어 및 프로그램 : Python / Jupyter Notebook
